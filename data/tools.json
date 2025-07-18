@@ -1,0 +1,96 @@
+{
+    "categories": ["本地", "设计", "开发", "办公", "学习", "其他"],
+    "tools": [
+        {
+            "name": "免费开发资源",
+            "url": "/free-for-dev/",
+            "img": "assets/images/JSONCrack.png",
+            "description": "免费开发资源，来自：https://github.com/ripienaar/free-for-dev",
+            "category": "本地"
+        },
+        {
+            "name": "Figma",
+            "url": "https://www.figma.com",
+            "icon": "fas fa-pen-fancy",
+            "description": "在线协作设计工具",
+            "category": "设计"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com",
+            "icon": "fab fa-github",
+            "description": "代码托管平台",
+            "category": "开发"
+        },
+        {
+            "name": "VS Code",
+            "url": "https://code.visualstudio.com",
+            "icon": "fas fa-code",
+            "description": "轻量级代码编辑器",
+            "category": "开发"
+        },
+        {
+            "name": "Google Docs",
+            "url": "https://docs.google.com",
+            "icon": "fas fa-file-word",
+            "description": "在线文档编辑工具",
+            "category": "办公"
+        },
+        {
+            "name": "Notion",
+            "url": "https://www.notion.so",
+            "icon": "fas fa-book",
+            "description": "一体化工作空间",
+            "category": "办公"
+        },
+        {
+            "name": "Coursera",
+            "url": "https://www.coursera.org",
+            "icon": "fas fa-graduation-cap",
+            "description": "在线学习平台",
+            "category": "学习"
+        },
+        {
+            "name": "Trello",
+            "url": "https://trello.com",
+            "icon": "fas fa-tasks",
+            "description": "项目管理工具",
+            "category": "办公"
+        },
+        {
+            "name": "Dribbble",
+            "url": "https://dribbble.com",
+            "icon": "fas fa-basketball-ball",
+            "description": "设计师作品展示平台",
+            "category": "设计"
+        },
+        {
+            "name": "Stack Overflow",
+            "url": "https://stackoverflow.com",
+            "icon": "fab fa-stack-overflow",
+            "description": "开发者问答社区",
+            "category": "开发"
+        },
+        {
+            "name": "Canva",
+            "url": "https://www.canva.com",
+            "icon": "fas fa-palette",
+            "description": "在线平面设计工具",
+            "category": "设计"
+        },
+        {
+            "name": "MDN Web Docs",
+            "url": "https://developer.mozilla.org",
+            "icon": "fas fa-file-code",
+            "description": "Web开发文档",
+            "category": "学习"
+        },
+        {
+            "name": "Google Drive",
+            "url": "https://drive.google.com",
+            "icon": "fas fa-cloud",
+            "description": "云存储服务",
+            "category": "办公"
+        }
+    ]
+}
