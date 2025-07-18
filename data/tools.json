@@ -3,8 +3,8 @@
     "tools": [
         {
             "name": "免费开发资源",
-            "url": "/tools/free-for-dev/",
-            "img": "assets/images/JSONCrack.png",
+            "url": "tools/free-for-dev/",
+            "img": "tools/free-for-dev/logo.webp",
             "description": "免费开发资源，来自：https://github.com/ripienaar/free-for-dev",
             "category": "本地"
         },
